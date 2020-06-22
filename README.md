@@ -1,4 +1,4 @@
-Project 5
+The Science of One-Hit Wonders
 ==============================
 
 Analyzing what makes a song a one-hit wonder! Defined a one-hit wonder as an artist who only had one top 40 song during their career. Looked at songs from 1980-2016, but considered data from 1960 to 2019.
