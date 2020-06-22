@@ -4,7 +4,7 @@ The Science of One-Hit Wonders
 Analyzing what makes a song a one-hit wonder! Defined a one-hit wonder as an artist who only had one top 40 song during their career. Looked at songs from 1980-2016, but considered data from 1960 to 2019.
 Used Spotify and Genius APIs, Billboard Weekly Hot 100 chart data, and Billboard Year End chart data to build a dataset of 1500 potential one-hit wonders, 48% of which were identified as one-hit wonders. Analyzed lyrics using a variety of NLP and unsupervised learning techniques including dimensionality reduction, clustering, sentiment analysis, part of speech tagging, TDIDF count vectorizers, and a variety of custom metrics to generate features based on lyrics. Also performed extensive feature engineering to compare one-hit wonders to the music landscape at the singles' time of release by comparing their lyrical, audio, and genre properties to the most popular music from the year prior.
 
-Tried a variety of classification models, but focused on two: a neural network and logistic regression. The latter was used to dig into particular features via feature importance. For results, see [my blog post(https://elarson649.github.io/2020/06/17/final-project/) or the presentation featured in the repo.
+Tried a variety of classification models, but focused on two: a neural network and logistic regression. The latter was used to dig into particular features via feature importance. For results, see [my blog post](https://elarson649.github.io/2020/06/17/final-project/) or the presentation featured in the repo.
 
 Project Organization
 ------------
