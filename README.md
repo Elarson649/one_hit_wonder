@@ -20,7 +20,7 @@ Project Organization
 
 **Models**
   * logistic.pickle: Fitted logistic regression
-  * neural.pickle: Fiited neural network
+  * neural.pickle: Fitted neural network
 
 **Notebooks**
   * 0617_one_hit_wonder_final.ipynb: Notebook that walks through the data collection, cleaning, engineering, and modeling process. References functions in /src.
