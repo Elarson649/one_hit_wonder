@@ -34,7 +34,7 @@ Project Organization
   * features:
     * cleaning_text_data.py: Cleans text data (e.g. lyrics)
     * feature_engineering.py : Performs feature engineering
-    * topic_model.py: Performs dimenseionality reduction (e.g. PCA) and displays the top topics
+    * topic_model.py: Performs dimensionality reduction (e.g. PCA) and displays the top topics
     * vectorize_data.py: Vectorizes the data into a TFIDF vectorizer
   * models:
     * class_model.py: For a given trainval set, performs cross-validation for a particular model, shows key metrics, and returns the fitted model. Can also perform threshold tuning, dimensionality reduction, scaling, and more.
