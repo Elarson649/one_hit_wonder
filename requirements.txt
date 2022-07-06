@@ -104,7 +104,7 @@ lazy-object-proxy==1.4.3
 line-profiler==3.0.2
 llvmlite==0.29.0+0.g491dcba.dirty
 locket==0.2.0
-lxml==4.5.0
+lxml==4.9.1
 lyricsgenius==1.8.6
 Mako==1.1.0
 Markdown==3.2.1
